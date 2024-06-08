@@ -6,5 +6,5 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 - Live Site URL: (https://angelapetreska.github.io/ping-single-column-coming-soon-page/)
 
 ## Author
-- GitHub profile - [AngelaPetreska](https://angelapetreska.github.io/ping-single-column-coming-soon-page/)
+- GitHub profile - [AngelaPetreska](https://github.com/AngelaPetreska)
 - Frontend Mentor - [@AngelaPetreska](https://www.frontendmentor.io/profile/AngelaPetreska)
